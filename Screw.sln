@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screw", "Screw\Screw.csproj", "{0A0E12D1-14E0-4A2D-8874-2393D882B7DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0E12D1-14E0-4A2D-8874-2393D882B7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0E12D1-14E0-4A2D-8874-2393D882B7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0E12D1-14E0-4A2D-8874-2393D882B7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0E12D1-14E0-4A2D-8874-2393D882B7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D50FC502-9510-43D3-B728-857F695D46B5}
+	EndGlobalSection
+EndGlobal

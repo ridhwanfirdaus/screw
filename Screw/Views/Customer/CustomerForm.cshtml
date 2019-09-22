@@ -1,0 +1,17 @@
+﻿@model Screw.Models.Customer
+@{
+    ViewBag.Title = "Customer Form";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>New Customer</h2>
+@*return view customer form or save function havent been done *@
+@using(Html.BeginForm("Save" , "Customer"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name) , new{ @class = "form-control"}) 
+    </div>
+    
+}
+
